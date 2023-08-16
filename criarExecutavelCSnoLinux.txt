@@ -1,0 +1,13 @@
+# Criar um arquivo executável no Linux a partir de um código em C#
+# O executável roda em Linux e em Windows
+
+Comandos (no diretório do arquivo):
+	mcs [nomedoarquivo].cs
+	mono [nomedoarquivo].exe
+
+Para executar no linux:
+	-Ir até o diretório do arquivo;
+	-Digitar ./[nome do arquivo].exe
+
+Fonte/Mais informações:
+	https://www.vivaolinux.com.br/artigo/Mono-e-C-(parte-1)
