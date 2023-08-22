@@ -1,0 +1,7 @@
+# Arquivo de texto para ser lido com script C# no Replit
+
+Este é um texto escrito para ser aberto no Replit usando linguagem de programação do C#.
+
+Este é um segundo parágrafo para ver se dá certo.
+
+Henrique Bisetto
