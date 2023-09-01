@@ -1,0 +1,13 @@
+C:\TI\CSHARP\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.exe
+C:\TI\CSHARP\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.deps.json
+C:\TI\CSHARP\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.runtimeconfig.json
+C:\TI\CSHARP\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.runtimeconfig.dev.json
+C:\TI\CSHARP\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.dll
+C:\TI\CSHARP\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.pdb
+C:\TI\CSHARP\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.AssemblyInfoInputs.cache
+C:\TI\CSHARP\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.AssemblyInfo.cs
+C:\TI\CSHARP\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.dll
+C:\TI\CSHARP\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.pdb
+C:\TI\CSHARP\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.genruntimeconfig.cache
