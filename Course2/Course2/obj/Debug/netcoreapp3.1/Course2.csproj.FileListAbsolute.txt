@@ -1,0 +1,13 @@
+C:\TI\CSHARP\Course2\Course2\bin\Debug\netcoreapp3.1\Course2.exe
+C:\TI\CSHARP\Course2\Course2\bin\Debug\netcoreapp3.1\Course2.deps.json
+C:\TI\CSHARP\Course2\Course2\bin\Debug\netcoreapp3.1\Course2.runtimeconfig.json
+C:\TI\CSHARP\Course2\Course2\bin\Debug\netcoreapp3.1\Course2.runtimeconfig.dev.json
+C:\TI\CSHARP\Course2\Course2\bin\Debug\netcoreapp3.1\Course2.dll
+C:\TI\CSHARP\Course2\Course2\bin\Debug\netcoreapp3.1\Course2.pdb
+C:\TI\CSHARP\Course2\Course2\obj\Debug\netcoreapp3.1\Course2.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\Course2\Course2\obj\Debug\netcoreapp3.1\Course2.AssemblyInfoInputs.cache
+C:\TI\CSHARP\Course2\Course2\obj\Debug\netcoreapp3.1\Course2.AssemblyInfo.cs
+C:\TI\CSHARP\Course2\Course2\obj\Debug\netcoreapp3.1\Course2.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\Course2\Course2\obj\Debug\netcoreapp3.1\Course2.dll
+C:\TI\CSHARP\Course2\Course2\obj\Debug\netcoreapp3.1\Course2.pdb
+C:\TI\CSHARP\Course2\Course2\obj\Debug\netcoreapp3.1\Course2.genruntimeconfig.cache

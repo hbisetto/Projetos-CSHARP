@@ -1,0 +1,13 @@
+C:\TI\CSHARP\ExSaidadeDeDados\ExSaidadeDeDados\bin\Debug\netcoreapp3.1\ExSaidadeDeDados.exe
+C:\TI\CSHARP\ExSaidadeDeDados\ExSaidadeDeDados\bin\Debug\netcoreapp3.1\ExSaidadeDeDados.deps.json
+C:\TI\CSHARP\ExSaidadeDeDados\ExSaidadeDeDados\bin\Debug\netcoreapp3.1\ExSaidadeDeDados.runtimeconfig.json
+C:\TI\CSHARP\ExSaidadeDeDados\ExSaidadeDeDados\bin\Debug\netcoreapp3.1\ExSaidadeDeDados.runtimeconfig.dev.json
+C:\TI\CSHARP\ExSaidadeDeDados\ExSaidadeDeDados\bin\Debug\netcoreapp3.1\ExSaidadeDeDados.dll
+C:\TI\CSHARP\ExSaidadeDeDados\ExSaidadeDeDados\bin\Debug\netcoreapp3.1\ExSaidadeDeDados.pdb
+C:\TI\CSHARP\ExSaidadeDeDados\ExSaidadeDeDados\obj\Debug\netcoreapp3.1\ExSaidadeDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\ExSaidadeDeDados\ExSaidadeDeDados\obj\Debug\netcoreapp3.1\ExSaidadeDeDados.AssemblyInfoInputs.cache
+C:\TI\CSHARP\ExSaidadeDeDados\ExSaidadeDeDados\obj\Debug\netcoreapp3.1\ExSaidadeDeDados.AssemblyInfo.cs
+C:\TI\CSHARP\ExSaidadeDeDados\ExSaidadeDeDados\obj\Debug\netcoreapp3.1\ExSaidadeDeDados.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\ExSaidadeDeDados\ExSaidadeDeDados\obj\Debug\netcoreapp3.1\ExSaidadeDeDados.dll
+C:\TI\CSHARP\ExSaidadeDeDados\ExSaidadeDeDados\obj\Debug\netcoreapp3.1\ExSaidadeDeDados.pdb
+C:\TI\CSHARP\ExSaidadeDeDados\ExSaidadeDeDados\obj\Debug\netcoreapp3.1\ExSaidadeDeDados.genruntimeconfig.cache
