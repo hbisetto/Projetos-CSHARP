@@ -1,0 +1,13 @@
+C:\TI\CSHARP\Exercicio2_classe\Exercicio2_classe\bin\Debug\netcoreapp3.1\Exercicio2_classe.exe
+C:\TI\CSHARP\Exercicio2_classe\Exercicio2_classe\bin\Debug\netcoreapp3.1\Exercicio2_classe.deps.json
+C:\TI\CSHARP\Exercicio2_classe\Exercicio2_classe\bin\Debug\netcoreapp3.1\Exercicio2_classe.runtimeconfig.json
+C:\TI\CSHARP\Exercicio2_classe\Exercicio2_classe\bin\Debug\netcoreapp3.1\Exercicio2_classe.runtimeconfig.dev.json
+C:\TI\CSHARP\Exercicio2_classe\Exercicio2_classe\bin\Debug\netcoreapp3.1\Exercicio2_classe.dll
+C:\TI\CSHARP\Exercicio2_classe\Exercicio2_classe\bin\Debug\netcoreapp3.1\Exercicio2_classe.pdb
+C:\TI\CSHARP\Exercicio2_classe\Exercicio2_classe\obj\Debug\netcoreapp3.1\Exercicio2_classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\Exercicio2_classe\Exercicio2_classe\obj\Debug\netcoreapp3.1\Exercicio2_classe.AssemblyInfoInputs.cache
+C:\TI\CSHARP\Exercicio2_classe\Exercicio2_classe\obj\Debug\netcoreapp3.1\Exercicio2_classe.AssemblyInfo.cs
+C:\TI\CSHARP\Exercicio2_classe\Exercicio2_classe\obj\Debug\netcoreapp3.1\Exercicio2_classe.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\Exercicio2_classe\Exercicio2_classe\obj\Debug\netcoreapp3.1\Exercicio2_classe.dll
+C:\TI\CSHARP\Exercicio2_classe\Exercicio2_classe\obj\Debug\netcoreapp3.1\Exercicio2_classe.pdb
+C:\TI\CSHARP\Exercicio2_classe\Exercicio2_classe\obj\Debug\netcoreapp3.1\Exercicio2_classe.genruntimeconfig.cache
