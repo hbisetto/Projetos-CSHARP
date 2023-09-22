@@ -1,0 +1,13 @@
+C:\TI\CSHARP\EstoqueClasseMetodo\EstoqueClasseMetodo\bin\Debug\netcoreapp3.1\EstoqueClasseMetodo.exe
+C:\TI\CSHARP\EstoqueClasseMetodo\EstoqueClasseMetodo\bin\Debug\netcoreapp3.1\EstoqueClasseMetodo.deps.json
+C:\TI\CSHARP\EstoqueClasseMetodo\EstoqueClasseMetodo\bin\Debug\netcoreapp3.1\EstoqueClasseMetodo.runtimeconfig.json
+C:\TI\CSHARP\EstoqueClasseMetodo\EstoqueClasseMetodo\bin\Debug\netcoreapp3.1\EstoqueClasseMetodo.runtimeconfig.dev.json
+C:\TI\CSHARP\EstoqueClasseMetodo\EstoqueClasseMetodo\bin\Debug\netcoreapp3.1\EstoqueClasseMetodo.dll
+C:\TI\CSHARP\EstoqueClasseMetodo\EstoqueClasseMetodo\bin\Debug\netcoreapp3.1\EstoqueClasseMetodo.pdb
+C:\TI\CSHARP\EstoqueClasseMetodo\EstoqueClasseMetodo\obj\Debug\netcoreapp3.1\EstoqueClasseMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\EstoqueClasseMetodo\EstoqueClasseMetodo\obj\Debug\netcoreapp3.1\EstoqueClasseMetodo.AssemblyInfoInputs.cache
+C:\TI\CSHARP\EstoqueClasseMetodo\EstoqueClasseMetodo\obj\Debug\netcoreapp3.1\EstoqueClasseMetodo.AssemblyInfo.cs
+C:\TI\CSHARP\EstoqueClasseMetodo\EstoqueClasseMetodo\obj\Debug\netcoreapp3.1\EstoqueClasseMetodo.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\EstoqueClasseMetodo\EstoqueClasseMetodo\obj\Debug\netcoreapp3.1\EstoqueClasseMetodo.dll
+C:\TI\CSHARP\EstoqueClasseMetodo\EstoqueClasseMetodo\obj\Debug\netcoreapp3.1\EstoqueClasseMetodo.pdb
+C:\TI\CSHARP\EstoqueClasseMetodo\EstoqueClasseMetodo\obj\Debug\netcoreapp3.1\EstoqueClasseMetodo.genruntimeconfig.cache

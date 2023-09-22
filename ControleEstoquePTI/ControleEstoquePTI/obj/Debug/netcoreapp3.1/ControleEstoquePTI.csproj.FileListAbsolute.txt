@@ -1,0 +1,13 @@
+C:\TI\CSHARP\ControleEstoquePTI\ControleEstoquePTI\obj\Debug\netcoreapp3.1\ControleEstoquePTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\ControleEstoquePTI\ControleEstoquePTI\obj\Debug\netcoreapp3.1\ControleEstoquePTI.AssemblyInfoInputs.cache
+C:\TI\CSHARP\ControleEstoquePTI\ControleEstoquePTI\obj\Debug\netcoreapp3.1\ControleEstoquePTI.AssemblyInfo.cs
+C:\TI\CSHARP\ControleEstoquePTI\ControleEstoquePTI\obj\Debug\netcoreapp3.1\ControleEstoquePTI.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\ControleEstoquePTI\ControleEstoquePTI\bin\Debug\netcoreapp3.1\ControleEstoquePTI.exe
+C:\TI\CSHARP\ControleEstoquePTI\ControleEstoquePTI\bin\Debug\netcoreapp3.1\ControleEstoquePTI.deps.json
+C:\TI\CSHARP\ControleEstoquePTI\ControleEstoquePTI\bin\Debug\netcoreapp3.1\ControleEstoquePTI.runtimeconfig.json
+C:\TI\CSHARP\ControleEstoquePTI\ControleEstoquePTI\bin\Debug\netcoreapp3.1\ControleEstoquePTI.runtimeconfig.dev.json
+C:\TI\CSHARP\ControleEstoquePTI\ControleEstoquePTI\bin\Debug\netcoreapp3.1\ControleEstoquePTI.dll
+C:\TI\CSHARP\ControleEstoquePTI\ControleEstoquePTI\bin\Debug\netcoreapp3.1\ControleEstoquePTI.pdb
+C:\TI\CSHARP\ControleEstoquePTI\ControleEstoquePTI\obj\Debug\netcoreapp3.1\ControleEstoquePTI.dll
+C:\TI\CSHARP\ControleEstoquePTI\ControleEstoquePTI\obj\Debug\netcoreapp3.1\ControleEstoquePTI.pdb
+C:\TI\CSHARP\ControleEstoquePTI\ControleEstoquePTI\obj\Debug\netcoreapp3.1\ControleEstoquePTI.genruntimeconfig.cache
