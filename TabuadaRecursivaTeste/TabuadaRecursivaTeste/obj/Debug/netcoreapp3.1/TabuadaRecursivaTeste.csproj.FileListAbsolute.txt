@@ -1,0 +1,13 @@
+C:\TI\CSHARP\TabuadaRecursivaTeste\TabuadaRecursivaTeste\bin\Debug\netcoreapp3.1\TabuadaRecursivaTeste.exe
+C:\TI\CSHARP\TabuadaRecursivaTeste\TabuadaRecursivaTeste\bin\Debug\netcoreapp3.1\TabuadaRecursivaTeste.deps.json
+C:\TI\CSHARP\TabuadaRecursivaTeste\TabuadaRecursivaTeste\bin\Debug\netcoreapp3.1\TabuadaRecursivaTeste.runtimeconfig.json
+C:\TI\CSHARP\TabuadaRecursivaTeste\TabuadaRecursivaTeste\bin\Debug\netcoreapp3.1\TabuadaRecursivaTeste.runtimeconfig.dev.json
+C:\TI\CSHARP\TabuadaRecursivaTeste\TabuadaRecursivaTeste\bin\Debug\netcoreapp3.1\TabuadaRecursivaTeste.dll
+C:\TI\CSHARP\TabuadaRecursivaTeste\TabuadaRecursivaTeste\bin\Debug\netcoreapp3.1\TabuadaRecursivaTeste.pdb
+C:\TI\CSHARP\TabuadaRecursivaTeste\TabuadaRecursivaTeste\obj\Debug\netcoreapp3.1\TabuadaRecursivaTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\TabuadaRecursivaTeste\TabuadaRecursivaTeste\obj\Debug\netcoreapp3.1\TabuadaRecursivaTeste.AssemblyInfoInputs.cache
+C:\TI\CSHARP\TabuadaRecursivaTeste\TabuadaRecursivaTeste\obj\Debug\netcoreapp3.1\TabuadaRecursivaTeste.AssemblyInfo.cs
+C:\TI\CSHARP\TabuadaRecursivaTeste\TabuadaRecursivaTeste\obj\Debug\netcoreapp3.1\TabuadaRecursivaTeste.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\TabuadaRecursivaTeste\TabuadaRecursivaTeste\obj\Debug\netcoreapp3.1\TabuadaRecursivaTeste.dll
+C:\TI\CSHARP\TabuadaRecursivaTeste\TabuadaRecursivaTeste\obj\Debug\netcoreapp3.1\TabuadaRecursivaTeste.pdb
+C:\TI\CSHARP\TabuadaRecursivaTeste\TabuadaRecursivaTeste\obj\Debug\netcoreapp3.1\TabuadaRecursivaTeste.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\TI\CSHARP\OrientacaoObjetoTeste\OrientacaoObjetoTeste\obj\Debug\netcoreapp3.1\OrientacaoObjetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\OrientacaoObjetoTeste\OrientacaoObjetoTeste\obj\Debug\netcoreapp3.1\OrientacaoObjetoTeste.AssemblyInfoInputs.cache
+C:\TI\CSHARP\OrientacaoObjetoTeste\OrientacaoObjetoTeste\obj\Debug\netcoreapp3.1\OrientacaoObjetoTeste.AssemblyInfo.cs
+C:\TI\CSHARP\OrientacaoObjetoTeste\OrientacaoObjetoTeste\obj\Debug\netcoreapp3.1\OrientacaoObjetoTeste.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\OrientacaoObjetoTeste\OrientacaoObjetoTeste\bin\Debug\netcoreapp3.1\OrientacaoObjetoTeste.exe
+C:\TI\CSHARP\OrientacaoObjetoTeste\OrientacaoObjetoTeste\bin\Debug\netcoreapp3.1\OrientacaoObjetoTeste.deps.json
+C:\TI\CSHARP\OrientacaoObjetoTeste\OrientacaoObjetoTeste\bin\Debug\netcoreapp3.1\OrientacaoObjetoTeste.runtimeconfig.json
+C:\TI\CSHARP\OrientacaoObjetoTeste\OrientacaoObjetoTeste\bin\Debug\netcoreapp3.1\OrientacaoObjetoTeste.runtimeconfig.dev.json
+C:\TI\CSHARP\OrientacaoObjetoTeste\OrientacaoObjetoTeste\bin\Debug\netcoreapp3.1\OrientacaoObjetoTeste.dll
+C:\TI\CSHARP\OrientacaoObjetoTeste\OrientacaoObjetoTeste\bin\Debug\netcoreapp3.1\OrientacaoObjetoTeste.pdb
+C:\TI\CSHARP\OrientacaoObjetoTeste\OrientacaoObjetoTeste\obj\Debug\netcoreapp3.1\OrientacaoObjetoTeste.dll
+C:\TI\CSHARP\OrientacaoObjetoTeste\OrientacaoObjetoTeste\obj\Debug\netcoreapp3.1\OrientacaoObjetoTeste.pdb
+C:\TI\CSHARP\OrientacaoObjetoTeste\OrientacaoObjetoTeste\obj\Debug\netcoreapp3.1\OrientacaoObjetoTeste.genruntimeconfig.cache
