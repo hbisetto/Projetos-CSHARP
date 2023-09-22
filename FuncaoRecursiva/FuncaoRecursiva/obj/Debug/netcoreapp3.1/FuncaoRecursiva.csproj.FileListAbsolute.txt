@@ -1,0 +1,13 @@
+C:\TI\CSHARP\FuncaoRecursiva\FuncaoRecursiva\bin\Debug\netcoreapp3.1\FuncaoRecursiva.exe
+C:\TI\CSHARP\FuncaoRecursiva\FuncaoRecursiva\bin\Debug\netcoreapp3.1\FuncaoRecursiva.deps.json
+C:\TI\CSHARP\FuncaoRecursiva\FuncaoRecursiva\bin\Debug\netcoreapp3.1\FuncaoRecursiva.runtimeconfig.json
+C:\TI\CSHARP\FuncaoRecursiva\FuncaoRecursiva\bin\Debug\netcoreapp3.1\FuncaoRecursiva.runtimeconfig.dev.json
+C:\TI\CSHARP\FuncaoRecursiva\FuncaoRecursiva\bin\Debug\netcoreapp3.1\FuncaoRecursiva.dll
+C:\TI\CSHARP\FuncaoRecursiva\FuncaoRecursiva\bin\Debug\netcoreapp3.1\FuncaoRecursiva.pdb
+C:\TI\CSHARP\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\netcoreapp3.1\FuncaoRecursiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\netcoreapp3.1\FuncaoRecursiva.AssemblyInfoInputs.cache
+C:\TI\CSHARP\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\netcoreapp3.1\FuncaoRecursiva.AssemblyInfo.cs
+C:\TI\CSHARP\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\netcoreapp3.1\FuncaoRecursiva.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\netcoreapp3.1\FuncaoRecursiva.dll
+C:\TI\CSHARP\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\netcoreapp3.1\FuncaoRecursiva.pdb
+C:\TI\CSHARP\FuncaoRecursiva\FuncaoRecursiva\obj\Debug\netcoreapp3.1\FuncaoRecursiva.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\TI\CSHARP\Ordenação\bin\Debug\net7.0\Ordenação.exe
+C:\TI\CSHARP\Ordenação\bin\Debug\net7.0\Ordenação.deps.json
+C:\TI\CSHARP\Ordenação\bin\Debug\net7.0\Ordenação.runtimeconfig.json
+C:\TI\CSHARP\Ordenação\bin\Debug\net7.0\Ordenação.dll
+C:\TI\CSHARP\Ordenação\bin\Debug\net7.0\Ordenação.pdb
+C:\TI\CSHARP\Ordenação\obj\Debug\net7.0\Ordenação.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\Ordenação\obj\Debug\net7.0\Ordenação.AssemblyInfoInputs.cache
+C:\TI\CSHARP\Ordenação\obj\Debug\net7.0\Ordenação.AssemblyInfo.cs
+C:\TI\CSHARP\Ordenação\obj\Debug\net7.0\Ordenação.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\Ordenação\obj\Debug\net7.0\Ordenação.dll
+C:\TI\CSHARP\Ordenação\obj\Debug\net7.0\refint\Ordenação.dll
+C:\TI\CSHARP\Ordenação\obj\Debug\net7.0\Ordenação.pdb
+C:\TI\CSHARP\Ordenação\obj\Debug\net7.0\Ordenação.genruntimeconfig.cache
+C:\TI\CSHARP\Ordenação\obj\Debug\net7.0\ref\Ordenação.dll

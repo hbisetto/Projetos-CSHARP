@@ -1,0 +1,13 @@
+C:\TI\CSHARP\OrdenacaoBubbleSort\OrdenacaoBubbleSort\bin\Debug\netcoreapp3.1\OrdenacaoBubbleSort.exe
+C:\TI\CSHARP\OrdenacaoBubbleSort\OrdenacaoBubbleSort\bin\Debug\netcoreapp3.1\OrdenacaoBubbleSort.deps.json
+C:\TI\CSHARP\OrdenacaoBubbleSort\OrdenacaoBubbleSort\bin\Debug\netcoreapp3.1\OrdenacaoBubbleSort.runtimeconfig.json
+C:\TI\CSHARP\OrdenacaoBubbleSort\OrdenacaoBubbleSort\bin\Debug\netcoreapp3.1\OrdenacaoBubbleSort.runtimeconfig.dev.json
+C:\TI\CSHARP\OrdenacaoBubbleSort\OrdenacaoBubbleSort\bin\Debug\netcoreapp3.1\OrdenacaoBubbleSort.dll
+C:\TI\CSHARP\OrdenacaoBubbleSort\OrdenacaoBubbleSort\bin\Debug\netcoreapp3.1\OrdenacaoBubbleSort.pdb
+C:\TI\CSHARP\OrdenacaoBubbleSort\OrdenacaoBubbleSort\obj\Debug\netcoreapp3.1\OrdenacaoBubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\OrdenacaoBubbleSort\OrdenacaoBubbleSort\obj\Debug\netcoreapp3.1\OrdenacaoBubbleSort.AssemblyInfoInputs.cache
+C:\TI\CSHARP\OrdenacaoBubbleSort\OrdenacaoBubbleSort\obj\Debug\netcoreapp3.1\OrdenacaoBubbleSort.AssemblyInfo.cs
+C:\TI\CSHARP\OrdenacaoBubbleSort\OrdenacaoBubbleSort\obj\Debug\netcoreapp3.1\OrdenacaoBubbleSort.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\OrdenacaoBubbleSort\OrdenacaoBubbleSort\obj\Debug\netcoreapp3.1\OrdenacaoBubbleSort.dll
+C:\TI\CSHARP\OrdenacaoBubbleSort\OrdenacaoBubbleSort\obj\Debug\netcoreapp3.1\OrdenacaoBubbleSort.pdb
+C:\TI\CSHARP\OrdenacaoBubbleSort\OrdenacaoBubbleSort\obj\Debug\netcoreapp3.1\OrdenacaoBubbleSort.genruntimeconfig.cache
