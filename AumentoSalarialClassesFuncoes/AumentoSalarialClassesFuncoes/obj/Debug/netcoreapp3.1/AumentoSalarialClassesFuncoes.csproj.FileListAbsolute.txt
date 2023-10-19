@@ -1,0 +1,13 @@
+C:\TI\CSHARP\AumentoSalarialClassesFuncoes\AumentoSalarialClassesFuncoes\bin\Debug\netcoreapp3.1\AumentoSalarialClassesFuncoes.exe
+C:\TI\CSHARP\AumentoSalarialClassesFuncoes\AumentoSalarialClassesFuncoes\bin\Debug\netcoreapp3.1\AumentoSalarialClassesFuncoes.deps.json
+C:\TI\CSHARP\AumentoSalarialClassesFuncoes\AumentoSalarialClassesFuncoes\bin\Debug\netcoreapp3.1\AumentoSalarialClassesFuncoes.runtimeconfig.json
+C:\TI\CSHARP\AumentoSalarialClassesFuncoes\AumentoSalarialClassesFuncoes\bin\Debug\netcoreapp3.1\AumentoSalarialClassesFuncoes.runtimeconfig.dev.json
+C:\TI\CSHARP\AumentoSalarialClassesFuncoes\AumentoSalarialClassesFuncoes\bin\Debug\netcoreapp3.1\AumentoSalarialClassesFuncoes.dll
+C:\TI\CSHARP\AumentoSalarialClassesFuncoes\AumentoSalarialClassesFuncoes\bin\Debug\netcoreapp3.1\AumentoSalarialClassesFuncoes.pdb
+C:\TI\CSHARP\AumentoSalarialClassesFuncoes\AumentoSalarialClassesFuncoes\obj\Debug\netcoreapp3.1\AumentoSalarialClassesFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\AumentoSalarialClassesFuncoes\AumentoSalarialClassesFuncoes\obj\Debug\netcoreapp3.1\AumentoSalarialClassesFuncoes.AssemblyInfoInputs.cache
+C:\TI\CSHARP\AumentoSalarialClassesFuncoes\AumentoSalarialClassesFuncoes\obj\Debug\netcoreapp3.1\AumentoSalarialClassesFuncoes.AssemblyInfo.cs
+C:\TI\CSHARP\AumentoSalarialClassesFuncoes\AumentoSalarialClassesFuncoes\obj\Debug\netcoreapp3.1\AumentoSalarialClassesFuncoes.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\AumentoSalarialClassesFuncoes\AumentoSalarialClassesFuncoes\obj\Debug\netcoreapp3.1\AumentoSalarialClassesFuncoes.dll
+C:\TI\CSHARP\AumentoSalarialClassesFuncoes\AumentoSalarialClassesFuncoes\obj\Debug\netcoreapp3.1\AumentoSalarialClassesFuncoes.pdb
+C:\TI\CSHARP\AumentoSalarialClassesFuncoes\AumentoSalarialClassesFuncoes\obj\Debug\netcoreapp3.1\AumentoSalarialClassesFuncoes.genruntimeconfig.cache
