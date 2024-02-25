@@ -1,0 +1,13 @@
+C:\TI\CSHARP\RetanguloClasseMetodos\RetanguloClasseMetodos\obj\Debug\netcoreapp3.1\RetanguloClasseMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\RetanguloClasseMetodos\RetanguloClasseMetodos\obj\Debug\netcoreapp3.1\RetanguloClasseMetodos.AssemblyInfoInputs.cache
+C:\TI\CSHARP\RetanguloClasseMetodos\RetanguloClasseMetodos\obj\Debug\netcoreapp3.1\RetanguloClasseMetodos.AssemblyInfo.cs
+C:\TI\CSHARP\RetanguloClasseMetodos\RetanguloClasseMetodos\obj\Debug\netcoreapp3.1\RetanguloClasseMetodos.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\RetanguloClasseMetodos\RetanguloClasseMetodos\bin\Debug\netcoreapp3.1\RetanguloClasseMetodos.exe
+C:\TI\CSHARP\RetanguloClasseMetodos\RetanguloClasseMetodos\bin\Debug\netcoreapp3.1\RetanguloClasseMetodos.deps.json
+C:\TI\CSHARP\RetanguloClasseMetodos\RetanguloClasseMetodos\bin\Debug\netcoreapp3.1\RetanguloClasseMetodos.runtimeconfig.json
+C:\TI\CSHARP\RetanguloClasseMetodos\RetanguloClasseMetodos\bin\Debug\netcoreapp3.1\RetanguloClasseMetodos.runtimeconfig.dev.json
+C:\TI\CSHARP\RetanguloClasseMetodos\RetanguloClasseMetodos\bin\Debug\netcoreapp3.1\RetanguloClasseMetodos.dll
+C:\TI\CSHARP\RetanguloClasseMetodos\RetanguloClasseMetodos\bin\Debug\netcoreapp3.1\RetanguloClasseMetodos.pdb
+C:\TI\CSHARP\RetanguloClasseMetodos\RetanguloClasseMetodos\obj\Debug\netcoreapp3.1\RetanguloClasseMetodos.dll
+C:\TI\CSHARP\RetanguloClasseMetodos\RetanguloClasseMetodos\obj\Debug\netcoreapp3.1\RetanguloClasseMetodos.pdb
+C:\TI\CSHARP\RetanguloClasseMetodos\RetanguloClasseMetodos\obj\Debug\netcoreapp3.1\RetanguloClasseMetodos.genruntimeconfig.cache

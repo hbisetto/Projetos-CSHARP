@@ -1,0 +1,13 @@
+C:\TI\CSHARP\ProblemaTriangulosAreas\ProblemaTriangulosAreas\obj\Debug\netcoreapp3.1\ProblemaTriangulosAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\ProblemaTriangulosAreas\ProblemaTriangulosAreas\obj\Debug\netcoreapp3.1\ProblemaTriangulosAreas.AssemblyInfoInputs.cache
+C:\TI\CSHARP\ProblemaTriangulosAreas\ProblemaTriangulosAreas\obj\Debug\netcoreapp3.1\ProblemaTriangulosAreas.AssemblyInfo.cs
+C:\TI\CSHARP\ProblemaTriangulosAreas\ProblemaTriangulosAreas\obj\Debug\netcoreapp3.1\ProblemaTriangulosAreas.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\ProblemaTriangulosAreas\ProblemaTriangulosAreas\bin\Debug\netcoreapp3.1\ProblemaTriangulosAreas.exe
+C:\TI\CSHARP\ProblemaTriangulosAreas\ProblemaTriangulosAreas\bin\Debug\netcoreapp3.1\ProblemaTriangulosAreas.deps.json
+C:\TI\CSHARP\ProblemaTriangulosAreas\ProblemaTriangulosAreas\bin\Debug\netcoreapp3.1\ProblemaTriangulosAreas.runtimeconfig.json
+C:\TI\CSHARP\ProblemaTriangulosAreas\ProblemaTriangulosAreas\bin\Debug\netcoreapp3.1\ProblemaTriangulosAreas.runtimeconfig.dev.json
+C:\TI\CSHARP\ProblemaTriangulosAreas\ProblemaTriangulosAreas\bin\Debug\netcoreapp3.1\ProblemaTriangulosAreas.dll
+C:\TI\CSHARP\ProblemaTriangulosAreas\ProblemaTriangulosAreas\bin\Debug\netcoreapp3.1\ProblemaTriangulosAreas.pdb
+C:\TI\CSHARP\ProblemaTriangulosAreas\ProblemaTriangulosAreas\obj\Debug\netcoreapp3.1\ProblemaTriangulosAreas.dll
+C:\TI\CSHARP\ProblemaTriangulosAreas\ProblemaTriangulosAreas\obj\Debug\netcoreapp3.1\ProblemaTriangulosAreas.pdb
+C:\TI\CSHARP\ProblemaTriangulosAreas\ProblemaTriangulosAreas\obj\Debug\netcoreapp3.1\ProblemaTriangulosAreas.genruntimeconfig.cache

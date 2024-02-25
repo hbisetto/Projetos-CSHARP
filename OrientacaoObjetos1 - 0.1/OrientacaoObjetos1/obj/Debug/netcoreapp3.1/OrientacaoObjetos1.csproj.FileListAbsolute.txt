@@ -1,0 +1,13 @@
+C:\TI\CSHARP\OrientacaoObjetos1\OrientacaoObjetos1\bin\Debug\netcoreapp3.1\OrientacaoObjetos1.exe
+C:\TI\CSHARP\OrientacaoObjetos1\OrientacaoObjetos1\bin\Debug\netcoreapp3.1\OrientacaoObjetos1.deps.json
+C:\TI\CSHARP\OrientacaoObjetos1\OrientacaoObjetos1\bin\Debug\netcoreapp3.1\OrientacaoObjetos1.runtimeconfig.json
+C:\TI\CSHARP\OrientacaoObjetos1\OrientacaoObjetos1\bin\Debug\netcoreapp3.1\OrientacaoObjetos1.runtimeconfig.dev.json
+C:\TI\CSHARP\OrientacaoObjetos1\OrientacaoObjetos1\bin\Debug\netcoreapp3.1\OrientacaoObjetos1.dll
+C:\TI\CSHARP\OrientacaoObjetos1\OrientacaoObjetos1\bin\Debug\netcoreapp3.1\OrientacaoObjetos1.pdb
+C:\TI\CSHARP\OrientacaoObjetos1\OrientacaoObjetos1\obj\Debug\netcoreapp3.1\OrientacaoObjetos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\OrientacaoObjetos1\OrientacaoObjetos1\obj\Debug\netcoreapp3.1\OrientacaoObjetos1.AssemblyInfoInputs.cache
+C:\TI\CSHARP\OrientacaoObjetos1\OrientacaoObjetos1\obj\Debug\netcoreapp3.1\OrientacaoObjetos1.AssemblyInfo.cs
+C:\TI\CSHARP\OrientacaoObjetos1\OrientacaoObjetos1\obj\Debug\netcoreapp3.1\OrientacaoObjetos1.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\OrientacaoObjetos1\OrientacaoObjetos1\obj\Debug\netcoreapp3.1\OrientacaoObjetos1.dll
+C:\TI\CSHARP\OrientacaoObjetos1\OrientacaoObjetos1\obj\Debug\netcoreapp3.1\OrientacaoObjetos1.pdb
+C:\TI\CSHARP\OrientacaoObjetos1\OrientacaoObjetos1\obj\Debug\netcoreapp3.1\OrientacaoObjetos1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\TI\CSHARP\OrdenacaoSelectionSort\OrdenacaoSelectionSort\bin\Debug\netcoreapp3.1\OrdenacaoSelectionSort.exe
+C:\TI\CSHARP\OrdenacaoSelectionSort\OrdenacaoSelectionSort\bin\Debug\netcoreapp3.1\OrdenacaoSelectionSort.deps.json
+C:\TI\CSHARP\OrdenacaoSelectionSort\OrdenacaoSelectionSort\bin\Debug\netcoreapp3.1\OrdenacaoSelectionSort.runtimeconfig.json
+C:\TI\CSHARP\OrdenacaoSelectionSort\OrdenacaoSelectionSort\bin\Debug\netcoreapp3.1\OrdenacaoSelectionSort.runtimeconfig.dev.json
+C:\TI\CSHARP\OrdenacaoSelectionSort\OrdenacaoSelectionSort\bin\Debug\netcoreapp3.1\OrdenacaoSelectionSort.dll
+C:\TI\CSHARP\OrdenacaoSelectionSort\OrdenacaoSelectionSort\bin\Debug\netcoreapp3.1\OrdenacaoSelectionSort.pdb
+C:\TI\CSHARP\OrdenacaoSelectionSort\OrdenacaoSelectionSort\obj\Debug\netcoreapp3.1\OrdenacaoSelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\OrdenacaoSelectionSort\OrdenacaoSelectionSort\obj\Debug\netcoreapp3.1\OrdenacaoSelectionSort.AssemblyInfoInputs.cache
+C:\TI\CSHARP\OrdenacaoSelectionSort\OrdenacaoSelectionSort\obj\Debug\netcoreapp3.1\OrdenacaoSelectionSort.AssemblyInfo.cs
+C:\TI\CSHARP\OrdenacaoSelectionSort\OrdenacaoSelectionSort\obj\Debug\netcoreapp3.1\OrdenacaoSelectionSort.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\OrdenacaoSelectionSort\OrdenacaoSelectionSort\obj\Debug\netcoreapp3.1\OrdenacaoSelectionSort.dll
+C:\TI\CSHARP\OrdenacaoSelectionSort\OrdenacaoSelectionSort\obj\Debug\netcoreapp3.1\OrdenacaoSelectionSort.pdb
+C:\TI\CSHARP\OrdenacaoSelectionSort\OrdenacaoSelectionSort\obj\Debug\netcoreapp3.1\OrdenacaoSelectionSort.genruntimeconfig.cache

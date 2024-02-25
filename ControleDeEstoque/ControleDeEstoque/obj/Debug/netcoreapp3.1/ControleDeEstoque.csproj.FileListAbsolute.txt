@@ -1,0 +1,13 @@
+C:\TI\CSHARP\ControleDeEstoque\ControleDeEstoque\bin\Debug\netcoreapp3.1\ControleDeEstoque.exe
+C:\TI\CSHARP\ControleDeEstoque\ControleDeEstoque\bin\Debug\netcoreapp3.1\ControleDeEstoque.deps.json
+C:\TI\CSHARP\ControleDeEstoque\ControleDeEstoque\bin\Debug\netcoreapp3.1\ControleDeEstoque.runtimeconfig.json
+C:\TI\CSHARP\ControleDeEstoque\ControleDeEstoque\bin\Debug\netcoreapp3.1\ControleDeEstoque.runtimeconfig.dev.json
+C:\TI\CSHARP\ControleDeEstoque\ControleDeEstoque\bin\Debug\netcoreapp3.1\ControleDeEstoque.dll
+C:\TI\CSHARP\ControleDeEstoque\ControleDeEstoque\bin\Debug\netcoreapp3.1\ControleDeEstoque.pdb
+C:\TI\CSHARP\ControleDeEstoque\ControleDeEstoque\obj\Debug\netcoreapp3.1\ControleDeEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\ControleDeEstoque\ControleDeEstoque\obj\Debug\netcoreapp3.1\ControleDeEstoque.AssemblyInfoInputs.cache
+C:\TI\CSHARP\ControleDeEstoque\ControleDeEstoque\obj\Debug\netcoreapp3.1\ControleDeEstoque.AssemblyInfo.cs
+C:\TI\CSHARP\ControleDeEstoque\ControleDeEstoque\obj\Debug\netcoreapp3.1\ControleDeEstoque.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\ControleDeEstoque\ControleDeEstoque\obj\Debug\netcoreapp3.1\ControleDeEstoque.dll
+C:\TI\CSHARP\ControleDeEstoque\ControleDeEstoque\obj\Debug\netcoreapp3.1\ControleDeEstoque.pdb
+C:\TI\CSHARP\ControleDeEstoque\ControleDeEstoque\obj\Debug\netcoreapp3.1\ControleDeEstoque.genruntimeconfig.cache

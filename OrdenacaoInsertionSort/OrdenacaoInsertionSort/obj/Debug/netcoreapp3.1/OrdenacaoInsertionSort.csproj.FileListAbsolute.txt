@@ -1,0 +1,13 @@
+C:\TI\CSHARP\OrdenacaoInsertionSort\OrdenacaoInsertionSort\bin\Debug\netcoreapp3.1\OrdenacaoInsertionSort.exe
+C:\TI\CSHARP\OrdenacaoInsertionSort\OrdenacaoInsertionSort\bin\Debug\netcoreapp3.1\OrdenacaoInsertionSort.deps.json
+C:\TI\CSHARP\OrdenacaoInsertionSort\OrdenacaoInsertionSort\bin\Debug\netcoreapp3.1\OrdenacaoInsertionSort.runtimeconfig.json
+C:\TI\CSHARP\OrdenacaoInsertionSort\OrdenacaoInsertionSort\bin\Debug\netcoreapp3.1\OrdenacaoInsertionSort.runtimeconfig.dev.json
+C:\TI\CSHARP\OrdenacaoInsertionSort\OrdenacaoInsertionSort\bin\Debug\netcoreapp3.1\OrdenacaoInsertionSort.dll
+C:\TI\CSHARP\OrdenacaoInsertionSort\OrdenacaoInsertionSort\bin\Debug\netcoreapp3.1\OrdenacaoInsertionSort.pdb
+C:\TI\CSHARP\OrdenacaoInsertionSort\OrdenacaoInsertionSort\obj\Debug\netcoreapp3.1\OrdenacaoInsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\OrdenacaoInsertionSort\OrdenacaoInsertionSort\obj\Debug\netcoreapp3.1\OrdenacaoInsertionSort.AssemblyInfoInputs.cache
+C:\TI\CSHARP\OrdenacaoInsertionSort\OrdenacaoInsertionSort\obj\Debug\netcoreapp3.1\OrdenacaoInsertionSort.AssemblyInfo.cs
+C:\TI\CSHARP\OrdenacaoInsertionSort\OrdenacaoInsertionSort\obj\Debug\netcoreapp3.1\OrdenacaoInsertionSort.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\OrdenacaoInsertionSort\OrdenacaoInsertionSort\obj\Debug\netcoreapp3.1\OrdenacaoInsertionSort.dll
+C:\TI\CSHARP\OrdenacaoInsertionSort\OrdenacaoInsertionSort\obj\Debug\netcoreapp3.1\OrdenacaoInsertionSort.pdb
+C:\TI\CSHARP\OrdenacaoInsertionSort\OrdenacaoInsertionSort\obj\Debug\netcoreapp3.1\OrdenacaoInsertionSort.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\TI\CSHARP\Exercício1_classe\Exercício1_classe\obj\Debug\netcoreapp3.1\Exercício1_classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\Exercício1_classe\Exercício1_classe\obj\Debug\netcoreapp3.1\Exercício1_classe.AssemblyInfoInputs.cache
+C:\TI\CSHARP\Exercício1_classe\Exercício1_classe\obj\Debug\netcoreapp3.1\Exercício1_classe.AssemblyInfo.cs
+C:\TI\CSHARP\Exercício1_classe\Exercício1_classe\obj\Debug\netcoreapp3.1\Exercício1_classe.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\Exercício1_classe\Exercício1_classe\bin\Debug\netcoreapp3.1\Exercício1_classe.exe
+C:\TI\CSHARP\Exercício1_classe\Exercício1_classe\bin\Debug\netcoreapp3.1\Exercício1_classe.deps.json
+C:\TI\CSHARP\Exercício1_classe\Exercício1_classe\bin\Debug\netcoreapp3.1\Exercício1_classe.runtimeconfig.json
+C:\TI\CSHARP\Exercício1_classe\Exercício1_classe\bin\Debug\netcoreapp3.1\Exercício1_classe.runtimeconfig.dev.json
+C:\TI\CSHARP\Exercício1_classe\Exercício1_classe\bin\Debug\netcoreapp3.1\Exercício1_classe.dll
+C:\TI\CSHARP\Exercício1_classe\Exercício1_classe\bin\Debug\netcoreapp3.1\Exercício1_classe.pdb
+C:\TI\CSHARP\Exercício1_classe\Exercício1_classe\obj\Debug\netcoreapp3.1\Exercício1_classe.dll
+C:\TI\CSHARP\Exercício1_classe\Exercício1_classe\obj\Debug\netcoreapp3.1\Exercício1_classe.pdb
+C:\TI\CSHARP\Exercício1_classe\Exercício1_classe\obj\Debug\netcoreapp3.1\Exercício1_classe.genruntimeconfig.cache

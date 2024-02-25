@@ -1,0 +1,13 @@
+C:\TI\CSHARP\BuscaBinária\BuscaBinária\bin\Debug\netcoreapp3.1\BuscaBinária.exe
+C:\TI\CSHARP\BuscaBinária\BuscaBinária\bin\Debug\netcoreapp3.1\BuscaBinária.deps.json
+C:\TI\CSHARP\BuscaBinária\BuscaBinária\bin\Debug\netcoreapp3.1\BuscaBinária.runtimeconfig.json
+C:\TI\CSHARP\BuscaBinária\BuscaBinária\bin\Debug\netcoreapp3.1\BuscaBinária.runtimeconfig.dev.json
+C:\TI\CSHARP\BuscaBinária\BuscaBinária\bin\Debug\netcoreapp3.1\BuscaBinária.dll
+C:\TI\CSHARP\BuscaBinária\BuscaBinária\bin\Debug\netcoreapp3.1\BuscaBinária.pdb
+C:\TI\CSHARP\BuscaBinária\BuscaBinária\obj\Debug\netcoreapp3.1\BuscaBinária.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\CSHARP\BuscaBinária\BuscaBinária\obj\Debug\netcoreapp3.1\BuscaBinária.AssemblyInfoInputs.cache
+C:\TI\CSHARP\BuscaBinária\BuscaBinária\obj\Debug\netcoreapp3.1\BuscaBinária.AssemblyInfo.cs
+C:\TI\CSHARP\BuscaBinária\BuscaBinária\obj\Debug\netcoreapp3.1\BuscaBinária.csproj.CoreCompileInputs.cache
+C:\TI\CSHARP\BuscaBinária\BuscaBinária\obj\Debug\netcoreapp3.1\BuscaBinária.dll
+C:\TI\CSHARP\BuscaBinária\BuscaBinária\obj\Debug\netcoreapp3.1\BuscaBinária.pdb
+C:\TI\CSHARP\BuscaBinária\BuscaBinária\obj\Debug\netcoreapp3.1\BuscaBinária.genruntimeconfig.cache
